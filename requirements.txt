@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+pydeck
+polyline
+scikit-learn
+numpy
